@@ -1,2 +1,0 @@
-pyinputplus
-requests
